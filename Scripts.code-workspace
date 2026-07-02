@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Scripts"
+		},
+		{
+			"name": "ESP32 Servo Control",
+			"path": "."
+		},
+		{
+			"name": "Troubleshooting",
+			"path": "../Troubleshooting"
+		},
+		{
+			"name": "Arcade Claw Game - ESP32",
+			"path": "../Arcade Claw Game - ESP32"
+		}
+	],
+	"settings": {}
+}
