@@ -30,6 +30,8 @@ There are two builds, each good at one job — flash whichever you need into
   the build you seal. It still brings up a pre-seal WiFi arm/calibration UI, so
   you don't have to reflash between bench and deployment.
 
+  NOTE: CURRENTLY ONLY THE DEEPSLEEP VERSION IS IN GIT, ALONG WITH THE SERVO CALIBRATION CODE
+
 ## Build & flash (PlatformIO)
 
 ```bash
