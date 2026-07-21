@@ -4,11 +4,6 @@ Firmware for the **Servo** sequential water sampler: an ESP32 driving 21 Hiwonde
 HPS-2018 servo pinch valves (1 main intake + 20 sample valves) to collect 20
 timed water samples during a sealed ocean deployment.
 
-**Mission envelope:** ~300 m depth (~31 bar), ~8 °C, 21 days, all electronics
-oil-immersed in a pressure-compensated enclosure. The system spends >99% of the
-mission asleep, so idle power is the hard constraint — the pack (2× Power-Sonic
-PS-6100, ~24 Ah @ 6 V) must outlast the whole deployment.
-
 ## Hardware
 
 | Part | Role |
